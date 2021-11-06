@@ -16,7 +16,7 @@ I am Or Zaguri 😃. I am from Israel and I just got my bachelor degree. I studi
 - Cloud computing with Azure 
 - Infrastructure as a code - Provisioning to Azure Cloud with Terraform
 - Configuration management - maintainig and deploying app the azure cloud with Ansible
-- Continues Integration and Continues Development/Delivery (CICD) with Azure DevOps
+- continuous Integration and continuous Deployment/Delivery (CICD) with Azure DevOps
                                                           
 **Check out my Portfolio:** 🎯[Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
 
