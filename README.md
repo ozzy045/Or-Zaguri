@@ -28,7 +28,7 @@ I am Or Zaguri 😃. I am from Israel and I just got my bachelor degree. I studi
 - Configuration management - maintainig and deploying app to azure cloud with **Ansible** :hammer_and_wrench:	
 - Continuous Integration and Continuous Deployment/Delivery (CICD) with **Azure DevOps** :infinity:	
                                                           
-**Check out my Portfolio:** 🎯[Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
+**Check out my Bootcamp Projects:** 🎯[Bootcamp](https://github.com/ozzy045/bootcamp-app.git).
 
 ![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=ozzy045&hide=["issues"]&show_icons=true)
 
