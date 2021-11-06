@@ -21,7 +21,7 @@ I am Or Zaguri 😃. I am from Israel and I just got my bachelor degree. I studi
  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
 </p>
 
-- Writing scripts with **Linux and Powershell** 
+- Writing scripts with **Linux and Powershell** [Project](https://github.com/ozzy045/Sela-Password-Vailidation/tree/powershell)
 - Documenting code and configurations with **GIT**
 - Cloud computing with **Azure** :cloud:	
 - Infrastructure as a code - Provisioning to Azure Cloud with **Terraform** :rocket:	
