@@ -11,12 +11,12 @@ I am Or Zaguri 😃. I am from Israel and I just got my bachelor degree. I studi
 - Programming languages **Java and Python**.
 
 ## :technologist:	Bootcamp Studies 
-- Writing scripts with **Linux and Powershell**
+- Writing scripts with **Linux and Powershell** 
 - Documenting code and configurations with **GIT**
-- Cloud computing with **Azure** 
-- Infrastructure as a code - Provisioning to Azure Cloud with **Terraform**
-- Configuration management - maintainig and deploying app the azure cloud with **Ansible**
-- Continuous Integration and Continuous Deployment/Delivery (CICD) with **Azure DevOps**
+- Cloud computing with **Azure** :cloud:	
+- Infrastructure as a code - Provisioning to Azure Cloud with **Terraform** :rocket:	
+- Configuration management - maintainig and deploying app the azure cloud with **Ansible** :hammer_and_wrench:	
+- Continuous Integration and Continuous Deployment/Delivery (CICD) with **Azure DevOps** :infinity:	
                                                           
 **Check out my Portfolio:** 🎯[Portfolio](https://harshkumarkhatri.github.io/Portfolio-Site/index.html).
 
