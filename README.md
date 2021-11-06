@@ -11,6 +11,9 @@ I am Or Zaguri 😃. I am from Israel and I just got my bachelor degree. I studi
 - Programming languages **Java and Python**.
 
 ## :technologist:	Bootcamp Studies 
+<p align='center'>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+
 - Writing scripts with **Linux and Powershell** 
 - Documenting code and configurations with **GIT**
 - Cloud computing with **Azure** :cloud:	
